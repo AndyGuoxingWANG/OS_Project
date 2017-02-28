@@ -1,0 +1,21 @@
+.classpath
+.project
+.settings
+1.txt
+2.txt
+3.txt
+ascii.txt
+bin
+dir1
+empty.txt
+fizz-buzz-100.txt
+fizz-buzz-10000.txt
+fizz-buzz-1500000.txt
+hello-world.txt
+hello.txt
+replTest1.txt &
+replTest2.txt &
+src
+test.txt
+trial-file.txt
+world.txt
