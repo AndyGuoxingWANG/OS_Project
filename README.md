@@ -13,8 +13,7 @@ It is going to be to build a basic command line environment for interacting with
 
 Details:
 PA1_1_instruction.pdf
-Improvement:
-1 test fails
+
 ---
 
 PA1_2
