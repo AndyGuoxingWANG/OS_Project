@@ -40,5 +40,4 @@ I modify the simulation program to avoid busy waiting and to provide FIFO order 
 
 Details:
 PA2_instruction.pdf
-Improvement:
-You need to maintain a FIFO order. You should use condition variable for each basic server.
+
