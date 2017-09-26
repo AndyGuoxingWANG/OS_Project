@@ -10,16 +10,16 @@ LIST:
 PA1_1:
 Description:
 It is going to be to build a basic command line environment for interacting with a file system. This command line environment (or shell) will be written in Java. The first part of this assignment is designed to refresh your coding ability in Java, and ensure that you have the coding pre-requisites to be able to complete this course. You will do this while learning about Unix and practicing your Java-based System calls.
-####Details:
+Details:
 PA1_1_instruction.pdf
-####Improvement:
+Improvement:
 1 test fails
 ---
 
 PA1_2
 Description:
 In the second part of the assignment, I leverage my new knowledge about threads in Java to make your REPL loop's components (its filters) execute in separate threads, thus allowing the program run concurrently. Additionally, you will allow the commands to be executed as background processes.
-####Details:
+Details:
 PA1_2_instruction.pdf
 
 ---
